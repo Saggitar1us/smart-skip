@@ -1,0 +1,7 @@
+target
+.idea
+*.iml
+.DS_Store
+builds
+test-output
+local.properties
