@@ -1,4 +1,4 @@
-package com.smartskip.resources.domain;
+package com.smartskip.base.storage;
 
 public interface DataStorage {
 
